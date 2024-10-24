@@ -1,0 +1,3 @@
+C:/Users/kamil/ClampEngineRemake/CMakeFiles/ClampEngineRemake.dir
+C:/Users/kamil/ClampEngineRemake/CMakeFiles/edit_cache.dir
+C:/Users/kamil/ClampEngineRemake/CMakeFiles/rebuild_cache.dir

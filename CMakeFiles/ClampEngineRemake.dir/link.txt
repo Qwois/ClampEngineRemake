@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ClampEngineRemake.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\ClampEngineRemake.dir/objects.a @CMakeFiles\ClampEngineRemake.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -mwindows -Wl,--whole-archive CMakeFiles\ClampEngineRemake.dir/objects.a -Wl,--no-whole-archive -o ClampEngineRemake.exe -Wl,--out-implib,libClampEngineRemake.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ClampEngineRemake.dir\linkLibs.rsp
